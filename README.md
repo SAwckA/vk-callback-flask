@@ -1,0 +1,2 @@
+VK callback command handler
+
